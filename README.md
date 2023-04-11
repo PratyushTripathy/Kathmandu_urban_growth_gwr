@@ -5,9 +5,9 @@ Geographically weighted regression to measure the role of intra-urban drivers fo
 
 ## Description
 
-This repository contains the data used in the research "Geographically weighted regression to measure the role of intra-urban drivers for urban growth modelling in Kathmandu, Central Himalayas", by Diksha, Pratyush Tripathy and Amit Kumar.
+This repository contains the data used in the research:
 
-#### "Evaluating the sensitivity of water protection policy on urban growth predictions using models based on machine learning and the SLEUTH CA: A case study of Jiaxing"
+#### Geographically weighted regression to measure the role of intra-urban drivers for urban growth modelling in Kathmandu, Central Himalayas
 
 Diksha <sup>1</sup>, Pratyush Tripathy <sup>2</sup> <sup>3</sup>, Amit Kumar <sup>1</sup>
 
